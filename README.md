@@ -2,7 +2,9 @@
 An Ecommerce platform for sales of product.
 
 ## Installation
-First Download all the code. Copy to apache location. import .sql file to phpmyadmin.
+First Download all the code.
+Copy to apache location.
+Import .sql file to phpmyadmin.
 
 ## ScreenShot
 
